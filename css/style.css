@@ -396,11 +396,7 @@ nav p {
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	@media screen and (max-width: 476px) {
-		.events {
-			padding-left: 30px;
-			padding-right: 30px;
-		}
+
 }
 #name {
   background-image: url(../img/User-icon.png);
